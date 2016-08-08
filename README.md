@@ -1,2 +1,3 @@
 # AndroidApp
-可穿戴评估系统
+evaluation
+this is 1.0,it also neeed to be complete; 
